@@ -1,0 +1,21 @@
+{
+    "name": "domingocurbeira/estetica_joss",
+    "description": "pagina web con administrador hecho en php, mvc, html, sass y javaScript",
+    "autoload": {
+        "psr-4": {
+            "MVC\\": "./",
+            "Controllers\\": "./controllers",
+            "Model\\": "./models",
+            "Classes\\": "./classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dimanse",
+            "email": "domingocurbeira@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
