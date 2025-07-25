@@ -1,0 +1,19 @@
+{
+  "name": "estetica_joss",
+  "version": "1.0.0",
+  "description": "pagina web con administrador hecho en php, mvc, html, sass y javaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimanse/esteticaJoss.git"
+  },
+  "author": "Domingo Curbeira \"Dimanse\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dimanse/esteticaJoss/issues"
+  },
+  "homepage": "https://github.com/Dimanse/esteticaJoss#readme"
+}
