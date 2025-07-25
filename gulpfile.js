@@ -7,8 +7,6 @@ import gulpSass from 'gulp-sass'
 import terser from 'gulp-terser'
 import sharp from 'sharp'
 import plumber from 'gulp-plumber';
-import imagemin from 'gulp-imagemin';
-// import webp from 'gulp-webp';
 
 
 const { src, dest, watch, series } = pkg
